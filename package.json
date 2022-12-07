@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "ibm-watson": "^5.1.0",
     "watson-developer-cloud": "^4.0.1"
   },
